@@ -10,5 +10,5 @@ Six topics are covered:
 5. Under OpenGL_Icosahedron: Draw Icosahedron with OpenGL. Colors and surface subdivision are applied.
 6. Under OpenGL_MBSet_pThreads: Calculate the Mandelbrot set with 16 threads. Draw the figure of Mandelbrot set with OpenGL. Zoom in and zoom out are implemented. Implementation of Nvidia CUDA in calculating is under construction.
 
-It is better to run all these .cc under Linux enviroment.
+It is better to run all these .cc under Linux environment.
 * Dependencies are not included in this repository.
